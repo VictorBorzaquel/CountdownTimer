@@ -6,9 +6,11 @@
 
 ## Tecnologias
 
-- React Native
-- Styled Components
-- Typescript
 - date-fns
 - async-storage
 - vector-icons
+- datetimepicker
+- uuid
+- React Native
+- Styled Components
+- Typescript
