@@ -2,7 +2,7 @@
 
 ## React Native App
 
-<img src="./github/CountdownTimer.gif" width="400" />
+<img src="./CountdownTimer.gif" width="400" />
 
 ## Tecnologias
 
